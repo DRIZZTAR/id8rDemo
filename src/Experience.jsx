@@ -59,7 +59,6 @@ export default function Experience() {
 							color='black'
 							metalness={1.0}
 							roughness={0.0}
-							
 						/>
 					</Text3D>
 				</Center>
